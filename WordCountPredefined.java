@@ -8,7 +8,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.map.TokenCounterMapper;
 import org.apache.hadoop.mapreduce.lib.reduce.IntSumReducer;
 
-public class WorldCountPredefined
+public class WordCountPredefined
 {
 	public static void main(String[] args) throws Exception
 	{
